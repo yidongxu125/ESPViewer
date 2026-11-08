@@ -276,7 +276,8 @@ fchk/
 
 ## 下载
 
-📦 **打包好的 exe 请到 Release 页面下载**：[V1.0 Release](https://cnb.cool/chem311/ESPViewer/-/releases/tag/V1.0)（v2.0 打包版即将发布）
+📦 **打包好的 exe 请到 Release 页面下载**：
+请自行使用pyinstall直接打包
 
 - `ESPViewer.exe` — 单文件绿色版（中文界面）
 
