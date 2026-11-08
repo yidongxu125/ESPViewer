@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+build/
+*.spec.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.manifest
+
+# 运行时配置（含本机绝对路径，不入库）
+esp_surface_gui.ini
+
+# 中间文件指纹（随产物生成，不入库）
+bundle.json
+
+# 计算中间态（随产物生成，不入库）
+_espcalc/
+*.cub
